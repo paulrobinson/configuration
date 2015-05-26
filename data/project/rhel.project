@@ -1,0 +1,13 @@
+{
+  "code": "rhel",
+  "name": "Red Hat Enterprise Linux",
+  "type_specific_code" : {
+    "jbossorg_blog": [""],
+    "jbossorg_jira": [""],
+    "jbossorg_sbs" : [""],
+    "jbossorg_mailing_list": "",
+    "jbossorg_project_info": "",
+    "jbossdeveloper_website_code": ["rhel","Red Hat Enterprise Linux"],
+    "product" : true
+  }
+}
